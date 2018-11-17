@@ -7,6 +7,6 @@ If you have some ideas/problems,I will be happy for receiving your letter
 <table>
     <tr>
         <th>CameraForObserve</th>
-        <td>This script can let you observe sth <td/>
+        <td>You can rotate around sth & control the distance with target object<td/>
     </tr>
 </table>

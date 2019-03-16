@@ -12,7 +12,7 @@ Everyone will got some mistakes, if you find One here,i'm strongly recommended y
      <tr>
         <th>AnnulusGenerator</th>
         <td>Use this to generate an annulus BY using Unity Mesh in code. <br/>
-            You can get som intro here < https://blog.csdn.net/li1164407295/article/details/88587437 >. 
+            You can get more intro here < https://blog.csdn.net/li1164407295/article/details/88587437 >. 
         <td/>
     </tr>
 </table>

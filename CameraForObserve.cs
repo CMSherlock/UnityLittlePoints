@@ -3,7 +3,7 @@
 /// <summary>
 /// 主相机脚本 —— 挂载到主相机上，并 层次列表中的 Plane 拖到 pivot 
 /// </summary>
-public class ChinarCamera : MonoBehaviour
+public class CameraForObserve : MonoBehaviour
 {
     public Transform target;
     public float distance = 10.0f;

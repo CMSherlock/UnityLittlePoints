@@ -19,7 +19,8 @@ Everyone will got some mistakes, if you find One here,i'm strongly recommended y
         <th>NaughtySnake</th>
         <td>It's a small Gluttonous Snake game. <br/>
             What did this snake do ? :: go through the wall and transmit to the other side,and this snake also can eat && die.<br/>
-            BUG here::   if you let the Snake rotate around the corner,part of the body will just run away.
+            BUG here::   if you let the Snake rotate around the corner continuously,part of the body will just run away.Though i have a way to fix it ... but it still looks wired.
+            TO READ HERE :: I have a debug function in the "_Head" script, before you playing it , commented it first.
         <td/>
     </tr>
 </table>

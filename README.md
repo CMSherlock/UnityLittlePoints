@@ -1,5 +1,5 @@
 # UnityProject-Script
-This file is for Some trivial Codes and Project of my.<br/>
+This file is for Some trivial Codes and Project of mine.<br/>
 Everyone will got some mistakes, if you find One here,i'm strongly recommended you to communicate with me.
 
 
